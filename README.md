@@ -201,10 +201,10 @@ Table of contents
 ### Instant Messaging
 #### [Signal](https://bit.ly/3dbDWNf)
 
-**
+*FOSS messaging application with end-to-end encryption*
 
-- [**Play Store**]()
-- [**GitHub**]()
+- [**Play Store**](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+- [**GitHub**](https://github.com/signalapp/Signal-Android)
 
 ### Social Media
 #### [Infinity for Reddit](https://bit.ly/2TIVhW0)
