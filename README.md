@@ -14,7 +14,7 @@ Table of contents
 =================
   * [Search Engines](#search-engines)
   * [App stores](#app-stores)
-  * [Main Readers](#mail-reader)
+  * [Mail Readers](#mail-reader)
   * [Browsers](#browsers)
   * [Video Streaming Clients](#video-streaming-clients)
   * [Readers](#readers)
